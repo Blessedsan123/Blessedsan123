@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blessedsan123&label=Profile%20views&color=0e75b6&style=flat" alt="blessedsan123" /> </p>
 
 
-- 🔭 I’m currently working on **front-end Web-developing**
+- 🔭 I’m currently working on **front-end Web-designing**
 
 - 🌱 I’m currently learning **Electronics and Telecommunication Enginnering**
 
