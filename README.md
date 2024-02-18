@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blessedsan123&show_icons=true&locale=en&layout=compact" alt="blessedsan123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blessedsan123&show_icons=true&locale=en" alt="blessedsan123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blessedsan123&show_icons=true&locale=en" alt="blessedsan123"/></p>
