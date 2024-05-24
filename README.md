@@ -3,7 +3,6 @@
 <h3 align="center">I'm a Frontend VlSI Engineer || Frontend Web Designer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Blessedsan123&label=Profile%20views&color=0e75b6&style=flat" alt="Blessedsan123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Blessedsan123&theme=" alt="Blessedsan123" /></a> </p>
 
 - 🔭 I’m currently working on **VLSI Domain**
 - 👯 I’m looking to collaborate on **Qualcomm snapdragon 8 gen 4**
