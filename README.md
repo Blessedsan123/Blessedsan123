@@ -5,12 +5,10 @@
 
 
 - 🔭 I’m currently working on **VLSI Domain**
-- 👯 I’m looking to collaborate on **Qualcomm snapdragon 8 gen 4**
-- 🤝 I’m looking for help with **Qualcomm**
-- 🌱 I’m currently learning **VLSI Domain**
-- 💬 Ask me about **Circuital field and web designing**
+- 🤝 I’m looking for help with **Verilog coding and Frontend web designing**
+- 🌱 I’m currently learning **Chip Design, Simulation, Synthesis and Implementation**
+- 💬 Ask me about **Coding related queries**
 - 📫 How to reach me **sandeeppanigrahi589@gmail.com**
-- ⚡ Fun fact **I think I'm funny for who close to me**
 
 <div> <a href="https://github.com/Blessedsan123" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/blessed_san.123" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
