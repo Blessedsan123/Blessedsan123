@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **VLSI Domain**
-- 🤝 I’m looking for help with **Verilog coding and Frontend web designing**
+- 🤝 I’m looking for help with **Verilog coding**
 - 🌱 I’m currently learning **Chip Design, Simulation, Synthesis and Implementation**
 - 💬 Ask me about **Coding related queries**
 - 📫 How to reach me **sandeeppanigrahi589@gmail.com**
